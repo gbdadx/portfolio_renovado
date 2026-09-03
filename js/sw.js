@@ -3,7 +3,9 @@ const ASSETS = [
   './',
   './index.html',
   './manifest.json',
-  './img/Orange-Favicon.png'
+  './assets/img/Orange-Favicon.png',
+  './assets/img/portfolio/1.jpg',
+  './assets/img/portfolio/2.jpg', 
 ];
 
 // Instala el Service Worker y guarda los archivos en caché

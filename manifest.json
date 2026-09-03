@@ -8,6 +8,8 @@
   "theme_color": "#3A3128",
   "orientation": "portrait",
   "icons": [
-    { "src": "img/Orange-Favicon.png", "sizes": "512x512", "type": "image/png" }
+    { "src": "assets/img/Orange-Favicon.png", 
+    "sizes": "512x512", 
+    "type": "image/png" }
   ]
 }

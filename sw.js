@@ -1,4 +1,4 @@
-const CACHE_NAME = 'proyectos-v1'; // subí este número cada vez que cambies index.html
+const CACHE_NAME = 'proyectos-v2'; // subí este número cada vez que cambies index.html
 const ASSETS = [
   './',
   './index.html',
@@ -9,12 +9,12 @@ const ASSETS = [
   './assets/img/descarga.png',
   './assets/img/historiaclinica.png',
   './assets/img/radio.png',
-  './assets/img/foto-perfilGrande.png'
+  './assets/img/foto-perfilGrande.png',
   './assets/img/untref.png',
   './assets/img/listaTAreas.png',
   './assets/img/bancoM.png',
   './assets/img/criptoCompare.png',
-  './assets/img/funWflags.png',
+  './assets/img/funWflags.png'
 ];
 
 // Instala el Service Worker y guarda los archivos en caché

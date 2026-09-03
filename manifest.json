@@ -1,0 +1,13 @@
+{
+  "name": "Proyectos",
+  "short_name": "Proyectos",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#FBF5EE",
+  "theme_color": "#3A3128",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "img/Orange-Favicon.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}

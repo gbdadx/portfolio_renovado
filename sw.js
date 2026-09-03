@@ -4,11 +4,8 @@ const ASSETS = [
   './index.html',
   './manifest.json',
   './assets/img/Orange-Favicon.png',
-  './assets/img/bancoM.png',
-  './assets/img/bitcoin.webp', 
-  './assets/img/BlueFavicon.png',
-  './assets/img/criptoCompare.png',
-  './assets/img/historiaclinica.png',
+  './css/styles.css',
+  './css/custom.css'
 ];
 
 // Instala el Service Worker y guarda los archivos en caché
